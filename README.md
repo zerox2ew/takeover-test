@@ -1,1 +1,1 @@
-# takeover-test
+https://mta-sts.hackerone.com/
